@@ -60,9 +60,6 @@ define([
 			console.log(dialog);
 			//Open the dialog
 			dialog.show();
-
-			//			dialog.buildRendering(stringContent);
-			//			dialog.show();
 		}
 	});
 });
