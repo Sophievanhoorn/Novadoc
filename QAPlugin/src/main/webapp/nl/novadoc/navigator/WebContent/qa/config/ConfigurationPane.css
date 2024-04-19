@@ -1,0 +1,10 @@
+.company-logo {
+	background-image: url("../resources/images/novadoc.png");
+	background-position: left;
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: auto;
+	margin-left: 15px;
+	margin-top: 20px;
+}
